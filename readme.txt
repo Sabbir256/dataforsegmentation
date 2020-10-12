@@ -11,4 +11,6 @@ tumorMask dataset contains only the tumor regions of data. These are binary imag
 Total 3064 T1 weighted images of 233 different patients are there in the dataset folder in (.png) format.
 
 
-Taken from figshare.
+- Taken from figshare.
+- semantic segmenatation.
+- 
